@@ -112,7 +112,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 925.5, 1042.0, 150.0, 33.0 ],
-					"presentation_linecount" : 2,
 					"text" : "Presentation: Panels and Coments"
 				}
 
@@ -136,7 +135,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 166.5, 413.0, 150.0, 33.0 ],
-					"presentation_linecount" : 2,
 					"text" : "Combine Node Texture and Drawing"
 				}
 
@@ -2876,7 +2874,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 22.0, 57.0, 100.0, 22.0 ],
-													"text" : "scale 0. 1. 36. 48"
+													"text" : "scale 0. 1. 48. 60"
 												}
 
 											}
@@ -6422,23 +6420,23 @@
 															}
 , 															{
 																"key" : 1,
-																"value" : [ 50 ]
+																"value" : [ 55 ]
 															}
 , 															{
 																"key" : 2,
-																"value" : [ 52 ]
-															}
-, 															{
-																"key" : 3,
-																"value" : [ 50 ]
-															}
-, 															{
-																"key" : 4,
 																"value" : [ 57 ]
 															}
 , 															{
-																"key" : 5,
+																"key" : 3,
+																"value" : [ 48 ]
+															}
+, 															{
+																"key" : 4,
 																"value" : [ 55 ]
+															}
+, 															{
+																"key" : 5,
+																"value" : [ 57 ]
 															}
 , 															{
 																"key" : 6,
@@ -9841,7 +9839,7 @@
 		"dependency_cache" : [ 			{
 				"name" : "jit.gl.slab.gauss6x.maxpat",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Examples/jitter-examples/render/slab",
-				"patcherrelativepath" : "../../../Library/Application Support/Cycling '74/Max 8/Examples/jitter-examples/render/slab",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 8/Examples/jitter-examples/render/slab",
 				"type" : "JSON",
 				"implicit" : 1
 			}
